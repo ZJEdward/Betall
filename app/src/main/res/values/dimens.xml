@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSize15">15sp</dimen>
+    <dimen name="fontSize16">16sp</dimen>
+    <dimen name="fontSize17">17sp</dimen>
+    <dimen name="fontSize18">18sp</dimen>
+    <dimen name="fontSize19">19sp</dimen>
+    <dimen name="fontSize20">20sp</dimen>
+
+    <dimen name="marginH">16dp</dimen>
+    <dimen name="marginV">10dp</dimen>
+    <dimen name="margin">16dp</dimen>
+
+    <dimen name="paddingH">8dp</dimen>
+    <dimen name="paddingV">8dp</dimen>
+    <dimen name="padding">8dp</dimen>
+
+    <dimen name="spacingH">8dp</dimen>
+    <dimen name="spacingV">8dp</dimen>
+    <dimen name="spacing">8dp</dimen>
+</resources>

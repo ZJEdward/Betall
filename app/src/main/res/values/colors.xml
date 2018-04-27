@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="colorBackground">#f3f3f3</color>
+    <color name="colorGroup">@color/colorBackground</color>
+    <color name="colorDivider">#eeeeee</color>
+
+    <color name="colorCellPressed">@color/colorDivider</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#333333</color>
+    <color name="colorDarkGray">#666666</color>
+    <color name="colorGray">#999999</color>
+    <color name="colorLightGray">#cccccc</color>
+
+    <color name="colorRed">#cc0000</color>
+    <color name="colorGreen">#00cc00</color>
+    <color name="colorBlue">#0000cc</color>
+    <color name="colorYellow">#ffbf35</color>
+
+</resources>
